@@ -6,5 +6,6 @@ Enjoying the Github.
 - HERE IN MY MACHINE;
 - HERE'S NOT IN CLOUD (texting the merge);
 
+- HERE IN MY MACHINE (again - testing merge conflict);
 
 
